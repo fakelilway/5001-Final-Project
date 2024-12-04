@@ -30,7 +30,7 @@ The codebase is organized into the following main components:
 ## Installation and Setup
 ### Prerequisites
 - Python 3.x
-- Required Python packages: Pandas, Tkinter, Matplotlib (these are common packages and may already be installed in your environment).
+- Required Python packages: Pandas, Tkinter, Matplotlib, Requests (these are common packages and may already be installed in your environment).
 
 ### Installing Additional Packages
 Install any missing Python packages via `pip`.
